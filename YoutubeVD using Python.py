@@ -7,7 +7,7 @@ root = Tk()
 # setting the geometry of the GUI
 root.geometry("400x350")
 # setting the title of the GUI
-root.title("Youtube video downloader application")
+root.title("Youtube Video Downloader Application By NRK")
 # defining download function
 def download():
     # using try and except to execute program without errors
