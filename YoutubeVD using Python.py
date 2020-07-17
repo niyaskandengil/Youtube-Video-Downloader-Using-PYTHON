@@ -5,7 +5,7 @@ from pytube import YouTube
 # initializing tkinter
 root = Tk()
 # setting the geometry of the GUI
-root.geometry("400x350")
+root.geometry("600x300")
 # setting the title of the GUI
 root.title("Youtube Video Downloader Application By NRK")
 # defining download function
